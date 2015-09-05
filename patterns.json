@@ -393,12 +393,5 @@
         "pattern": "\\A*\\.pubxml(\\.user)?\\z",
         "caption": "Potential MSBuild publish profile",
         "description": null
-    },
-    {
-        "part": "filename",
-        "type": "regex",
-        "pattern": "(.*?)\\.txt",
-        "caption": "Test",
-        "description": null
     }
 ]
